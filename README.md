@@ -4,3 +4,5 @@ Mirror Torrent to Onedrives same as jakiyaa and dabare the difference just chang
 https://github.com/jakiyaa/Torrent-to-Onedrive
 
 https://github.com/dabare/torrent-to-one-drive
+
+**this project for education purpose only**
